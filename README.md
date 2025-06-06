@@ -61,13 +61,10 @@ Install this library via Arduino IDE Library Manager or directly from GitHub:
 
 ## 📁 Project Structure
 
-├── src/
-│ └── main.ino
-├── hardware/
-│ └── wiring-diagram.png (optional)
+
+|── main.ino
 ├── README.md
 ├── LICENSE
-└── .gitignore
 
 ## 📸 Preview
 
