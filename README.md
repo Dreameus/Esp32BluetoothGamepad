@@ -1,7 +1,7 @@
 # 🎮 ESP32 Bluetooth Gamepad
 
 A simple and functional Bluetooth HID gamepad using an ESP32, one analog joystick, and four buttons. Designed for use with PCs, Android devices, or any platform that supports Bluetooth HID input.
-
+ 
 ## 🚀 Features
 
 - Bluetooth HID Gamepad using ESP32
