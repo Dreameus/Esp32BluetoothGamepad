@@ -37,7 +37,7 @@ You can change the pin numbers in `main.ino` if needed.
 Install this library via Arduino IDE Library Manager or directly from GitHub:
 
 - **ESP32 BLE Gamepad** by lemmingDev  
-  [https://github.com/T-vK/ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad)
+  [https://github.com/lemmingDev/ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad)
 
 ### 2. Arduino IDE Configuration
 
